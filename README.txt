@@ -21,8 +21,9 @@ docker run -it ebhaile/quiz-master
 
 5. GitHub URL
 -------------
-https://github.com/ebhaile/assignment4_expense_tracker
+https://github.com/ebhaile/assignment4_quiz_game
 
 6. Docker Hub URL
 -----------------
 https://hub.docker.com/r/ebhaile/quiz-master
+
